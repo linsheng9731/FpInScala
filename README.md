@@ -1,7 +1,6 @@
 This repository contains answers of the book Functional Programming in Scala. 
 Chapter descriptions:
 
-* Chapter 2: gettingstarted
 * Chapter 3: datastructures
 * Chapter 4: errorhandling
 * Chapter 5: laziness
